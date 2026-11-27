@@ -1,0 +1,2 @@
+Este ficheiro foi criado no repositorio biblioteca-clonada.
+Vamos utiliza-lo para testar o comando git pull.
